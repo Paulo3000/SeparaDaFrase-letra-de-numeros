@@ -1,0 +1,11 @@
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.exe
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.deps.json
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.runtimeconfig.json
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.dll
+C:\Users\Paulo\source\repos\Separador\Separador\bin\Debug\netcoreapp3.1\Separador.pdb
+C:\Users\Paulo\source\repos\Separador\Separador\obj\Debug\netcoreapp3.1\Separador.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\Separador\Separador\obj\Debug\netcoreapp3.1\Separador.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Separador\Separador\obj\Debug\netcoreapp3.1\Separador.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Separador\Separador\obj\Debug\netcoreapp3.1\Separador.dll
+C:\Users\Paulo\source\repos\Separador\Separador\obj\Debug\netcoreapp3.1\Separador.pdb
